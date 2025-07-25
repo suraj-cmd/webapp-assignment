@@ -18,7 +18,7 @@ A simple containerized Python Flask web application deployed on DigitalOcean Kub
 
 ## 🏗️ Architecture
 
-![Architecture](architecture.png)
+![Architecture](docs/architecture.png)
 
 ---
 
