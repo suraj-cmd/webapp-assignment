@@ -1,8 +1,3 @@
-Awesome! Here's an expanded and professional `README.md` for your `webapp-assignment` project, perfect for GitHub and your panel interview:
-
----
-
-## ✅ Complete `README.md` Content
 
 ````markdown
 # webapp-assignment
@@ -19,8 +14,6 @@ A simple containerized Python Flask web application deployed on DigitalOcean Kub
 - Helm
 - Horizontal Pod Autoscaler (HPA)
 - DigitalOcean LoadBalancer
-- GitHub Actions (CI/CD)
-
 ---
 
 ## 🏗️ Architecture
@@ -119,23 +112,3 @@ hey -z 1m -c 50 http://<LoadBalancer-IP>/
 **Suraj Rajendra Patil**
 📧 [surajpatil522@gmail.com](mailto:surajpatil522@gmail.com)
 🌐 [GitHub: suraj-cmd](https://github.com/suraj-cmd)
-
----
-
-````
-
----
-
-## 🧾 Steps to Add This to Your GitHub Repo:
-
-1. Open terminal in your project folder.
-2. Run:
-
-```bash
-curl -o README.md https://raw.githubusercontent.com/suraj-cmd/webapp-assignment/main/README.md
-# OR manually paste the content above into README.md
-
-git add README.md
-git commit -m "Added detailed project README"
-git push
-````
