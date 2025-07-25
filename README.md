@@ -18,7 +18,9 @@ A simple containerized Python Flask web application deployed on DigitalOcean Kub
 
 ## 🏗️ Architecture
 
-![Architecture](docs/architecture.png)
+## 🏗️  Architecture
+
+![Architecture](https://raw.githubusercontent.com/suraj-cmd/webapp-assignment/main/docs/architecture.png)
 
 ---
 
